@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T13:00:44.075Z" agent="5.0 (X11)" etag="izDZnpLG-E5W32Ywj_tn" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T13:01:29.209Z" agent="5.0 (X11)" etag="omV8qP2rUcZGBLsbTMn_" version="15.9.1" type="github">
   <diagram id="CL5G-_NYM9ewVfaq2sSb" name="Page-1">
     <mxGraphModel dx="1839" dy="2202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2-G_41VjCPuvLT6OFAs_-100" value="Modirum Datacenter" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontFamily=Georgia;fontSize=15;strokeColor=default;fillColor=#CCFFFF;opacity=75;verticalAlign=bottom;spacingBottom=10;" vertex="1" parent="1">
-          <mxGeometry x="162" y="390" width="525.02" height="320" as="geometry" />
-        </mxCell>
         <mxCell id="6W7RN4OTOTchefVPIJHc-1" value="" style="html=1;outlineConnect=0;fillColor=#F2F2F2;strokeColor=#6881B3;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;perimeterSpacing=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="245" y="90" width="360" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="2-G_41VjCPuvLT6OFAs_-91" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;comic=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;dashed=1;dashPattern=1 1;startArrow=none;startFill=0;endArrow=none;endFill=1;startSize=15;endSize=4;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="6W7RN4OTOTchefVPIJHc-22" target="6W7RN4OTOTchefVPIJHc-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="125" as="sourcePoint" />
+            <mxPoint x="550" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2-G_41VjCPuvLT6OFAs_-100" value="Modirum Datacenter" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontFamily=Georgia;fontSize=15;strokeColor=default;fillColor=#CCFFFF;opacity=75;verticalAlign=bottom;spacingBottom=10;" vertex="1" parent="1">
+          <mxGeometry x="162" y="390" width="525.02" height="320" as="geometry" />
         </mxCell>
         <mxCell id="2-G_41VjCPuvLT6OFAs_-89" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;comic=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;dashed=1;dashPattern=1 1;startArrow=none;startFill=0;endArrow=none;endFill=1;startSize=15;endSize=4;strokeColor=default;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6W7RN4OTOTchefVPIJHc-22" target="6W7RN4OTOTchefVPIJHc-2">
           <mxGeometry relative="1" as="geometry">
@@ -223,12 +229,6 @@
         </mxCell>
         <mxCell id="2-G_41VjCPuvLT6OFAs_-73" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Georgia;" vertex="1" parent="1">
           <mxGeometry x="100" y="10" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2-G_41VjCPuvLT6OFAs_-91" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;comic=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;dashed=1;dashPattern=1 1;startArrow=none;startFill=0;endArrow=none;endFill=1;startSize=15;endSize=4;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="6W7RN4OTOTchefVPIJHc-22" target="2-G_41VjCPuvLT6OFAs_-90">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="125" as="sourcePoint" />
-            <mxPoint x="550" y="440" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="2-G_41VjCPuvLT6OFAs_-92" value="BGP Transit&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; " style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;labelBackgroundColor=none;labelBorderColor=none;sketch=0;fontFamily=Georgia;strokeColor=#d6b656;fillColor=#fff2cc;direction=south;rotation=120;fontSize=9;horizontal=0;opacity=75;" vertex="1" parent="1">
           <mxGeometry x="400.72" y="272.46" width="28.53" height="219.95" as="geometry" />
